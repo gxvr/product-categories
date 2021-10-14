@@ -1,0 +1,61 @@
+{
+  "Animals": [
+    "Animal Toys",
+    "Animal Clothing",
+    "Animal Collars",
+    "Animal Leashes",
+    "Animal Feeding Accessories",
+    "Animal Housing",
+    "Animal Carriers",
+    "Animal Food",
+    "Animal Training Treats",
+    "Animal Supplements",
+    "Animal Grooming Accessories",
+    "Animal Waste Removal Accessories"
+  ],
+  "Art": [
+    "Art Crafting",
+    "Art Sewing",
+    "Art Knitting",
+    "Art Collectibles",
+    "Art Display Accessories",
+    "Art Gift/Craft Tape",
+    "Art Modelling Paint",
+    "Art Decor",
+    "Art Display",
+    "Art Statues"
+  ],
+  "Baby": [
+    "Baby Food",
+    "Baby Nutrition",
+    "Baby Beds",
+    "Baby Cribs",
+    "Baby Beds",
+    "Baby Accessories",
+    "Baby Swings",
+    "Baby Toys",
+    "Baby Strollers",
+    "Baby Vehicle Seats",
+    "Baby Carries"
+  ],
+  "Carrier": [
+    "Handbags",
+    "Backpacks",
+    "Wallets",
+    "Cases",
+    "Holders",
+    "Luggage"
+  ],
+  "Clothing": [
+    "Outer/Underwear",
+    "Swimwear",
+    "Sportswear",
+    "Headwear",
+    "Neckwear",
+    "Protective Clothing",
+    "Fashion Accessories"
+  ],
+  "Electronics": [
+    "Consumer Electronics"
+  ]
+}
